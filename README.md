@@ -22,7 +22,7 @@ git clone https://github.com/Pooria-Moosavi/options-trading-signal-detection.git
 Install the required dependencies:
 
 ```
-pip install pandas requests persiantools.jdatetime numpy
+pip install pandas persiantools numpy
 ```
 Run the script:
 
